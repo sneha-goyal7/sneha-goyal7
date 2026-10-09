@@ -4,7 +4,7 @@
 <h1 align="center">Hey, I'm <a href="https://github.com/sneha-goyal7" target="_blank">Sneha Goyal 👋</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3200&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Software Developer+%7C+Full+Stack+%26+AI;Building+MERN+apps+and+AI-powered+tools;C%2B%2B+%7C+DSA+%7C+React+%7C+Node.js+%7C+MongoDB;Solving+LeetCode+problems+daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3200&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Full+Stack+%26+AI;Building+MERN+apps+and+AI-powered+tools;C%2B%2B+%7C+DSA+%7C+React+%7C+Node.js+%7C+MongoDB;Solving+LeetCode+problems+daily" alt="Typing SVG" />
 </p>
 
 ---
