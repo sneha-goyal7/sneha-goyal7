@@ -11,7 +11,7 @@
 
 ### 💡 About Me
 
-🎓 Final-year **B.Tech CSE** student at **AKGEC, Ghaziabad** (2027 batch), focused on becoming a solid **full stack developer** with an AI edge.
+🎯 SDE focused on **real-time, high-throughput full stack systems** — the kind that sit underneath trading platforms, order engines, and portfolio dashboards.
 
 💻 I build with the **MERN stack**, practice **DSA in C++** every day, and explore how LLMs can make developer tools smarter.
 
@@ -22,7 +22,7 @@
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goyal-sneha7)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/sneha_goyal7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:snehagoyal4295@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sneha-goyal7)
 
 ---
@@ -68,13 +68,13 @@ Responsive cafe ordering site with 30+ products, search and category/dietary fil
 </td>
 <td width="50%" valign="top">
 
-**DSA & LeetCode Practice**
+**Kriya — [Project Title]**
 <br/>
-C++ · Problem Solving
+[Tech stack · e.g. React · Node.js · MongoDB]
 
-My daily DSA practice repo: I solve problems in VS Code, work out the logic myself, then push solutions. Backed by a synced LeetCode repo of solved questions.
+[Write 2–3 lines about what Kriya does, the problem it solves, and its key features.]
 
-[`DSA Repo →`](https://github.com/sneha-goyal7/DSA) · [`LeetCode Repo →`](https://github.com/sneha-goyal7/leetcode)
+[`View Repo →`](https://github.com/sneha-goyal7/Kriya)
 
 </td>
 </tr>
@@ -88,25 +88,27 @@ My daily DSA practice repo: I solve problems in VS Code, work out the logic myse
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css" height="42"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css" height="42"/>
 
 <br/><br/>
 
-**Frontend**
+**Backend & Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite" height="42"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,react,vite" height="42"/>
 
 <br/><br/>
 
-**Backend & Database**
+**Data & Caching**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" height="42"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase" height="42"/>
 
 <br/><br/>
 
-**Tools & Deployment**
+**Infra & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,netlify,postman" height="42"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,vercel,postman" height="42"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" height="25"/>
 
 <br/><br/>
 
@@ -136,31 +138,16 @@ My daily DSA practice repo: I solve problems in VS Code, work out the logic myse
 
 ---
 
-## 🧩 LeetCode Stats
+## 🏆 Achievements
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/sneha_goyal7?theme=dark&font=Poppins&ext=heatmap" height="200"/>
-</div>
+- 🎓 Completed the **Full Stack Developer** certification on SimpliLearn SkillUp
+- ☁️ Earned the **IBM SkillsBuild** completion certificate for the Gen AI & Cloud Computing internship (AICTE Approved, Bharat Cares Initiative)
+- 🤖 Completed the **ChatGPT for Students** course under HCL GUVI's Bharat AI Initiative (powered by OpenAI), gaining practical proficiency in prompting techniques and responsible AI practices
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00C2FF,100:7B68EE&text=Learning%20%7C%20Building%20%7C%20Shipping%20%E2%9A%A1&fontAlign=50&fontAlignY=40&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00C2FF,100:7B68EE&text=Building%20systems%20that%20don't%20go%20down%20%E2%9A%A1&fontAlign=50&fontAlignY=40&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Crafted by Sneha Goyal -->
-
-<!--
-**sneha-goyal7/sneha-goyal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
