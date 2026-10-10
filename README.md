@@ -1,5 +1,13 @@
 <!-- ✨ GitHub Profile README — Sneha Goyal -->
 
+```text
+███████╗███╗   ██╗███████╗██╗  ██╗ █████╗      ██████╗  ██████╗ ██╗   ██╗ █████╗ ██╗
+██╔════╝████╗  ██║██╔════╝██║  ██║██╔══██╗    ██╔════╝ ██╔═══██╗╚██╗ ██╔╝██╔══██╗██║
+███████╗██╔██╗ ██║█████╗  ███████║███████║    ██║  ███╗██║   ██║ ╚████╔╝ ███████║██║
+╚════██║██║╚██╗██║██╔══╝  ██╔══██║██╔══██║    ██║   ██║██║   ██║  ╚██╔╝  ██╔══██║██║
+███████║██║ ╚████║███████╗██║  ██║██║  ██║    ╚██████╔╝╚██████╔╝   ██║   ██║  ██║███████╗
+╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚══════╝
+```
 
 <h1 align="center">Hey, I'm <a href="https://github.com/sneha-goyal7" target="_blank">Sneha Goyal 👋</a></h1>
 
@@ -82,7 +90,7 @@ Responsive cafe ordering site with 30+ products, search and category/dietary fil
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -94,7 +102,7 @@ Responsive cafe ordering site with 30+ products, search and category/dietary fil
 
 **Backend & Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,react,vite" height="42"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,react,nextjs,tailwind,vite" height="42"/>
 
 <br/><br/>
 
@@ -106,9 +114,19 @@ Responsive cafe ordering site with 30+ products, search and category/dietary fil
 
 **Infra & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,vercel,postman" height="42"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,vercel,postman,vscode" height="42"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/IBM%20Cloud-052FAD?style=flat&logo=ibm&logoColor=white" height="25"/>
+
+<br/><br/>
+
+**AI & LLM**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-1A1A1A?style=flat" height="25"/>
 
 <br/><br/>
 
@@ -120,6 +138,10 @@ Responsive cafe ordering site with 30+ products, search and category/dietary fil
 <img src="https://img.shields.io/badge/LLM%20Integration-1A1A1A?style=flat" height="25"/>
 <img src="https://img.shields.io/badge/RAG-1A1A1A?style=flat" height="25"/>
 <img src="https://img.shields.io/badge/Responsive%20Design-1A1A1A?style=flat" height="25"/>
+<img src="https://img.shields.io/badge/OOP-1A1A1A?style=flat" height="25"/>
+<img src="https://img.shields.io/badge/DBMS%20%26%20SQL-1A1A1A?style=flat" height="25"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-1A1A1A?style=flat" height="25"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-1A1A1A?style=flat" height="25"/>
 
 </div>
 
@@ -134,6 +156,18 @@ Responsive cafe ordering site with 30+ products, search and category/dietary fil
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha-goyal7&layout=compact&theme=tokyonight&hide_border=false" height="150"/>
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
 </div>
 
 ---
