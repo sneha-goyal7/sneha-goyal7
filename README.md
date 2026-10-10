@@ -162,7 +162,7 @@ Responsive cafe ordering site with 30+ products, search and category/dietary fil
 </div>
 
 <div align="center">
-  <img src="./quote.svg" alt="If you have a procedure with 10 parameters, you probably missed some. - Alan Perlis" width="640" />
+  <img src="./quote.png" width="640" />
 </div>
 
 ---
