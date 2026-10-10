@@ -1,13 +1,8 @@
 <!-- ✨ GitHub Profile README — Sneha Goyal -->
 
-```text
-███████╗███╗   ██╗███████╗██╗  ██╗ █████╗      ██████╗  ██████╗ ██╗   ██╗ █████╗ ██╗
-██╔════╝████╗  ██║██╔════╝██║  ██║██╔══██╗    ██╔════╝ ██╔═══██╗╚██╗ ██╔╝██╔══██╗██║
-███████╗██╔██╗ ██║█████╗  ███████║███████║    ██║  ███╗██║   ██║ ╚████╔╝ ███████║██║
-╚════██║██║╚██╗██║██╔══╝  ██╔══██║██╔══██║    ██║   ██║██║   ██║  ╚██╔╝  ██╔══██║██║
-███████║██║ ╚████║███████╗██║  ██║██║  ██║    ╚██████╔╝╚██████╔╝   ██║   ██║  ██║███████╗
-╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚══════╝
-```
+<p align="center">
+  <img src="./banner.png" alt="SNEHA GOYAL" width="760"/>
+</p>
 
 <h1 align="center">Hey, I'm <a href="https://github.com/sneha-goyal7" target="_blank">Sneha Goyal 👋</a></h1>
 
@@ -167,7 +162,7 @@ Responsive cafe ordering site with 30+ products, search and category/dietary fil
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
+  <img src="./quote.svg" alt="If you have a procedure with 10 parameters, you probably missed some. - Alan Perlis" width="640" />
 </div>
 
 ---
