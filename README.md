@@ -169,9 +169,9 @@ Responsive cafe ordering site with 30+ products, search and category/dietary fil
 
 ## 🏆 Achievements
 
-- 🎓 Completed the **Full Stack Developer** certification on SimpliLearn SkillUp
-- ☁️ Earned the **IBM SkillsBuild** completion certificate for the Gen AI & Cloud Computing internship (AICTE Approved, Bharat Cares Initiative)
-- 🤖 Completed the **ChatGPT for Students** course under HCL GUVI's Bharat AI Initiative (powered by OpenAI), gaining practical proficiency in prompting techniques and responsible AI practices
+- 🎓 Completed the **Full Stack Developer** certification on SimpliLearn SkillUp.
+- ☁️ Earned the **IBM SkillsBuild** completion certificate for the Gen AI & Cloud Computing internship (AICTE Approved, Bharat Cares Initiative).
+- 🤖 Completed the **ChatGPT for Students** course under HCL GUVI's Bharat AI Initiative (powered by OpenAI), gaining practical proficiency in prompting techniques and responsible AI practices.
 
 ---
 
